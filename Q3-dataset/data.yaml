@@ -1,0 +1,6 @@
+train: ./images/train
+val: ./images/valid
+test: ./images/test
+
+nc: 13
+names: ['bishop', 'black-bishop', 'black-king', 'black-knight', 'black-pawn', 'black-queen', 'black-rook', 'white-bishop', 'white-king', 'white-knight', 'white-pawn', 'white-queen', 'white-rook']
